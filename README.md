@@ -1,6 +1,5 @@
 # Dark-DeviantArt
 Dark userstyles theme for DeviantArt
-<<<<<<< Updated upstream
 =======
 
 # Version History
@@ -17,4 +16,3 @@ v0.6.7 (2015-09-21) Skinned the box to reply to an existing comment.
 v0.6.6 (2015-09-21) Skinned the list of users who faved the artwork and made it more compact.  
 v0.6.5 (2015-09-19) Skinned Submission page and Explore Tags page, and a few minor improvements.  
 v0.6.0 (2015-09-19) Initial Release based on LilyB's skin.
->>>>>>> Stashed changes
